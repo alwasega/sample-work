@@ -36,7 +36,7 @@ def add2(a,b,c):
     return a+b
 
 def division2 (r,u):
-    return r+u
+    return r/u
 
 def multiplication2 (c,b,r):
     return c*b_r
