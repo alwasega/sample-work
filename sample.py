@@ -32,3 +32,12 @@ def date (today_date):
     
 def week (todays_week):
     return It is week 10
+
+def add2(a,b,c):
+    return a+b
+
+def division2 (r,u):
+    return r+u
+
+def multiplication2 (c,b,r):
+    return c*b_r
