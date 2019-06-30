@@ -28,7 +28,9 @@ return a
 
 
 def date (today_date):
-    
+    today_date="30-06-2019"
+print(today_date)
+date("")
     
 def week (todays_week):
     return It is week 10
