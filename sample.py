@@ -13,7 +13,7 @@ def division(x,y):
 
 def name(my_name):
     if name == my_name:
-        return my_name
+        return name
     
 def absolute(x):
     if x<0:
@@ -29,6 +29,13 @@ return a
 
 def date (today/date):
     
-    
 def week():
-    return "It is week 20"
+
+def add2(a,b,c):
+    return a+b
+
+def division2 (r,u):
+    return r+u
+
+def multiplication2 (c,b,r):
+    return c*b_r
