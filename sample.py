@@ -27,8 +27,8 @@ def number(a):
 return a
 
 
-def date (today_date):
+def date (today/date):
     
     
-def week (todays_week):
-    return It is week 10
+def week():
+    return "It is week 20"
