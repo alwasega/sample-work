@@ -2,8 +2,8 @@
 def add(x,y):
     return x+y
 
-def subtract(a,b):
-    return a-b
+def subtract(b,a):
+    return b-a
 
 def multiplication(x,y,z):
     return x*y*a
