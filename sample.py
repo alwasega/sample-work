@@ -13,7 +13,7 @@ def division(x,y):
 
 def name(my_name):
     if name == my_name:
-        return my_name
+        return name
     
 def absolute(x):
     if x<0:
