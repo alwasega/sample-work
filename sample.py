@@ -28,7 +28,9 @@ return a
 
 
 def date (today_date):
-    
+
+ 
+def month(today_month): 
     
 def week (todays_week):
     return It is week 10
