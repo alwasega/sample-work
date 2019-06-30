@@ -21,7 +21,8 @@ def absolute(x):
     return x
 
 def concatenate(string_a,string_b):
-    return string_a 
+    return string_a + string_b
+    
 
 def number(a):
 return a
